@@ -1,0 +1,30 @@
+.home-page-nav nav{
+    background-color:#012B5B ;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.home-page-nav nav .school-logo-nav{
+    width: 70px;
+    height: 70px;
+}
+.home-page-nav nav ul a{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+.home-page-nav nav ul a:hover{
+    color:#F7B90C !important
+}
+.home-page-nav nav button{
+    background-color: #F7B90C !important;
+    color: #F7B90C;
+    font-weight: bolder;
+}
+.home-page-nav nav button:hover{
+    background-color: #ffbb00 !important;
+    color: #012B5B;
+    font-weight: bolder;
+}

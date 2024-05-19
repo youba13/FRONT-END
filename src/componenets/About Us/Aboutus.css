@@ -1,0 +1,11 @@
+.aboutus-container .button-to-contact{
+    margin-top: 30px;
+    background-color: rgb(32, 32, 134);
+    padding: 10px;
+    border-radius: 8px;
+    transition: .2s;
+    color: white;
+}
+.aboutus-container .button-to-contact:hover{
+    background-color: rgb(15, 15, 63);
+}

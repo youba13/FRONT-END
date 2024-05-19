@@ -1,0 +1,22 @@
+
+.herosection-container{
+    width: 100%;
+    height: 80vh;
+    margin-top: 70px;
+   
+    
+}
+.herosection-container section{
+    background-image: url(../../assets/image/div.elementor-background-overlay.png) !important;
+    background-size: cover;
+}
+.herosection-container .herosection-button-inscription{
+    background-color: #F7B90C;
+    color: #012B5B;
+}
+.herosection-container .herosection-button-connexion{
+    background-color: white;
+    color: #012B5B;
+
+}
+

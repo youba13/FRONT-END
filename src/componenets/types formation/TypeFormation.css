@@ -1,0 +1,32 @@
+.typeformation-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.typeformation-container .section-title h1{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.typeformation-container  .orange-bg{
+    background-color: #F7B90C;
+    color: #012B5B;
+}
+.typeformation-container  .blue-bg{
+    background-color: #012B5B;
+    color: #F7B90C;
+    
+}
+.typeformation-container  button {
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 20px;
+    width: 100px;
+}
+.typeformation-container .scale-card:hover{
+   scale: 1.05;
+}
+.typeformation-container .scale-card:hover{
+    transition: .3s;
+}

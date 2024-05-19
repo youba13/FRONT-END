@@ -1,0 +1,37 @@
+*::-webkit-scrollbar {
+    width: 5px;
+    height: 10px;
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: rgba(155, 155, 155, 0.5);
+    border-radius: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+  }
+
+      .school-color-blue{
+          background-color: #012B5B !important;
+          color: white !important;
+      }
+      .hover-link-aside:hover{
+          background-color: #EFBB2D !important;
+          color: #012B5B  !important;
+      }
+     #data-container{
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          align-items: center;
+          height: auto;
+          margin-top: 57px;
+          
+  
+      }
+      /** apprenant form**/
+      
+      .admin-dash nav, aside{background-color: #012B5B ;}
+      
